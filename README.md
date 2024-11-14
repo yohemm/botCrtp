@@ -2,6 +2,14 @@
 # Crypto Backlogs
 <!-- ![Project Banner](path/to/banner/image)  -->
 
+## 🌟 Project Status
+
+> **Current Status**: **:large_blue_circle: Maintenance Mode**  
+> Development is focused on bug fixes, security updates, and minor improvements. No major new features are currently planned.
+
+---
+
+
 ## Overview
 
 Projet of crypto backlogs to test some skills/strategies on the crypto market.
